@@ -1,0 +1,8 @@
+invalid config:
+  hello:
+    world
+  hi:
+    invalid
+  list:
+    -apple:
+      core: 55

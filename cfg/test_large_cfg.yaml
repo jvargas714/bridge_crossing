@@ -1,0 +1,498 @@
+---
+events:
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+  - type: encounter
+    hikers:
+      - name: A
+        speed: 100
+      - name: B
+        speed: 50
+      - name: C
+        speed: 20
+      - name: D
+        speed: 10
+  - type: crossing
+    length: 100
+  - type: encounter
+    hikers:
+      - name: E
+        speed: 2.5
+  - type: crossing
+    length: 250
+  - type: encounter
+    hikers:
+      - name: F
+        speed: 25
+      - name: G
+        speed: 15
+  - type: crossing
+    length: 150
+
+...
