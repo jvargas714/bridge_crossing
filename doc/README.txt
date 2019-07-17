@@ -1,3 +1,7 @@
+Brief:
+The program expects one argument and that is the path to the crossing configuration file. If the file cannot be found
+or fails to be opened for processing the program will exit. A report will be generated of events described in config.
+
 Dependencies:
 LibYAML - A C library for parsing and emitting YAML dist 0.2.2
     - github: https://github.com/yaml/libyaml
@@ -13,7 +17,10 @@ chmod +x ./build.sh
 $ ./build.sh
 
 executable:
-    bin/bridg_crossing
+    bin/bridge_crossing
+
+running application:
+$ ./bin/bridge_crossing cfg/default_crossings.yaml
 
 event configuration file:
     In the ./cfg directory there are configuration files that outline various combination of hikers and crossings
@@ -22,7 +29,7 @@ event configuration file:
     New cfg files can be created with varying amounts of hikers, consecutive crossings, can have consecutive
     hiker encounters etc etc.
 
-Crossing Sim Configuration format:
+Bridge Crossing Sim Configuration format:
     The format is pretty simple, the file is read in to the system from top to bottom. The outer most
     element is a sequence of events.
     Events:
@@ -40,9 +47,6 @@ Crossing Sim Configuration format:
     to the team.
 
 Program Description:
-    The program expects one argument and that is the path to the crossing configuration file. If the file cannot be found
-    or fails to be opened for processing the program will exit.
-
     From the program entry point (./src/main.cpp) the BridgeCrossingProcessor class takes in the fileName. To begin
     processing of this file simply call BridgeCrossingProcessor::processCrossings.
 
