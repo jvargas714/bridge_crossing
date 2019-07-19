@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(scala_computing)
+project(b_crossing)
 
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_FLAGS_DEBUG "-Wall -O0 -g")
