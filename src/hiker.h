@@ -1,5 +1,5 @@
-#ifndef SCALA_COMPUTING_HIKER_H
-#define SCALA_COMPUTING_HIKER_H
+#ifndef _HIKER_H
+#define _HIKER_H
 #include <string>
 #include <ostream>
 
@@ -31,4 +31,4 @@ public:
 	bool operator == (const Hiker& hkr);
 	friend std::ostream& operator << (std::ostream& os, const Hiker& hkr);
 };
-#endif //SCALA_COMPUTING_HIKER_H
+#endif //_HIKER_H

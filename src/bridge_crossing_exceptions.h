@@ -1,5 +1,5 @@
-#ifndef SCALA_COMPUTING_BRIDGE_CROSSING_EXCEPTIONS_H
-#define SCALA_COMPUTING_BRIDGE_CROSSING_EXCEPTIONS_H
+#ifndef _BRIDGE_CROSSING_EXCEPTIONS_H
+#define _BRIDGE_CROSSING_EXCEPTIONS_H
 #include <exception>
 #include <stdexcept>
 
@@ -24,4 +24,4 @@ public:
 	FailedToOpenFile(): runtime_error(FAILED_TO_OPEN_FILE) {}
 	explicit FailedToOpenFile(const std::string& errMsg): std::runtime_error(errMsg){}
 };
-#endif //SCALA_COMPUTING_BRIDGE_CROSSING_EXCEPTIONS_H
+#endif //_BRIDGE_CROSSING_EXCEPTIONS_H

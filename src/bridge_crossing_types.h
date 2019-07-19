@@ -1,5 +1,5 @@
-#ifndef SCALA_COMPUTING_BRIDGE_CROSSING_TYPES_H
-#define SCALA_COMPUTING_BRIDGE_CROSSING_TYPES_H
+#ifndef _BRIDGE_CROSSING_TYPES_H
+#define _BRIDGE_CROSSING_TYPES_H
 
 // outer level keys
 const std::string KEY_NUM_BRIDGES = "num_bridges";
@@ -19,4 +19,4 @@ const std::string SUB_KEY_HIKER_SPEED = "speed";
 const std::string EVENT_ENCOUNTER_TYPE = "encounter";
 const std::string EVENT_CROSSING_TYPE = "crossing";
 
-#endif //SCALA_COMPUTING_BRIDGE_CROSSING_TYPES_H
+#endif //_BRIDGE_CROSSING_TYPES_H

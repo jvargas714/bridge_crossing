@@ -1,5 +1,5 @@
-#ifndef SCALA_COMPUTING_BRIDGECROSSINGHANDLER_H
-#define SCALA_COMPUTING_BRIDGECROSSINGHANDLER_H
+#ifndef _BRIDGECROSSINGHANDLER_H
+#define _BRIDGECROSSINGHANDLER_H
 #include <cstdint>
 #include <vector>
 #include <string>
@@ -37,4 +37,4 @@ public:
 	virtual void crossBridge(std::vector<Hiker>& hikers, int crossingLength);
 	virtual bool saveMasterCrossingReport() const;
 };
-#endif //SCALA_COMPUTING_BRIDGECROSSINGHANDLER_H
+#endif //_BRIDGECROSSINGHANDLER_H

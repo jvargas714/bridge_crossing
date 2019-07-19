@@ -1,5 +1,5 @@
-#ifndef SCALA_COMPUTING_BRIDGECROSSINGPROCESSOR_H
-#define SCALA_COMPUTING_BRIDGECROSSINGPROCESSOR_H
+#ifndef _BRIDGECROSSINGPROCESSOR_H
+#define _BRIDGECROSSINGPROCESSOR_H
 #include <memory>
 #include <vector>
 #include "BridgeCrossingHandler.h"
@@ -57,4 +57,4 @@ public:
 	void addHiker(const std::string& name, int speed);
 	void saveCrossingReport() const { m_crossingHandler->saveMasterCrossingReport(); }
 };
-#endif //SCALA_COMPUTING_BRIDGECROSSINGPROCESSOR_H
+#endif //_BRIDGECROSSINGPROCESSOR_H
