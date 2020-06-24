@@ -1,6 +1,8 @@
 #include <iostream>
 #include <csignal>
 #include <cstdint>
+#include <cstring>
+#include <algorithm>
 #include <yaml.h>
 #include "BridgeCrossingProcessor.h"
 #include "bridge_crossing_types.h"

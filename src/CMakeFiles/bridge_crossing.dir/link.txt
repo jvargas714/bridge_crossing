@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -O0 -g -Wall -O0 -g   CMakeFiles/bridge_crossing.dir/main.cpp.o CMakeFiles/bridge_crossing.dir/BridgeCrossingProcessor.cpp.o CMakeFiles/bridge_crossing.dir/hiker.cpp.o CMakeFiles/bridge_crossing.dir/BridgeCrossingHandler.cpp.o  -o ../bin/bridge_crossing ../lib/libOFF.a 

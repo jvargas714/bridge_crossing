@@ -1,5 +1,6 @@
 #include "BridgeCrossingHandler.h"
 #include "hiker.h"
+#include <algorithm>
 #include <sstream>
 #include <iomanip>
 #include <fstream>
